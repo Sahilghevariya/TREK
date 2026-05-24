@@ -102,7 +102,7 @@ Built using MongoDB, Express.js, React.js, and Node.js with a modern responsive 
 
 
 ## Vacation Planner
-<img width="1919" height="1079" alt="Screenshot 2026-05-24 143315" src="https://github.com/user-attachments/assets/e5381483-815b-4700-b603-ff934567b66d" />
+<img width="1918" height="1079" alt="Screenshot 2026-05-24 143332" src="https://github.com/user-attachments/assets/d7055269-2f98-46d0-a8f1-f51ed71a21ef" />
 
 
 ---
