@@ -1,0 +1,2 @@
+export { getTableModel } from './TableRecord';
+

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="210" height="80" viewBox="0 0 158 60" role="img" aria-label="trek">
+  <g fill="#000000">
+    <path d="M6 6h28v22H6zM39 15h14v13H39zM6 32h14v14H6zM24 32h28v22H24z" transform="skewX(-16)"/>
+    <text x="68" y="47" font-family="MuseoModerno, Arial, sans-serif" font-size="38" font-weight="800" letter-spacing="0">trek</text>
+  </g>
+</svg>
